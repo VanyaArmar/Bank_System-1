@@ -6,5 +6,6 @@ class Program
     {
         MainMenu.Menu();
         // test commmit
+        Card card = new Card("1234", CurrencyType.UAH);
     }
 }
